@@ -3,7 +3,7 @@ author: Abhay Hegde
 subtitle: Murmurs
 
 url: "https://www.abshegs.github.io"
-baseurl: "/parchment-jekyll"
+#baseurl: "/parchment-jekyll"
 
 #footer_url: "https://github.com/pro-panda"
 #footer_text: "Theme by pro-panda"
@@ -19,7 +19,5 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Resume"
-   link: "resume.pdf"
 
 theme: jekyll-theme-minimal
