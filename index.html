@@ -15,7 +15,7 @@ layout: default
             {% if post.tags.first == tag %}
                 <b>[</b>
             {% endif %}
-            <a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>
+            <a href="{{ site.baseurl }}/tags/#{{ tag }}">{{tag}}</a>
             {% if post.tags.last == tag %}
                 <b>]</b>
             {% else %}
@@ -25,7 +25,7 @@ layout: default
     </div>
     <br>
     <div class="post-snippet">
-        {{ post.snippet }}
+        {{post.snippet}}
     </div>
     <br><br>
     {% if forloop.last == false %}
