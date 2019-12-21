@@ -5,7 +5,7 @@ snippet: A review on Feynman's much celebrated talk on the dawn of nanotechnolog
 tags: [physics, papers]
 ---
 
-#Classic Paper Review Series
+#Classic Paper Review
 
 ##There is Plenty of Room at the Bottom, R.P. Feynman, 29th December 1959.
 
