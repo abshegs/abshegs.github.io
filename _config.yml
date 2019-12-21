@@ -5,8 +5,8 @@ subtitle: Murmurs
 url: "https://abshegs.github.io"
 #baseurl: "/parchment-jekyll"
 
-#footer_url: "https://github.com/pro-panda"
-#footer_text: "Theme by pro-panda"
+footer_url: "https://abshegs.github.io"
+footer_text: "Abhay Hegde"
 
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
