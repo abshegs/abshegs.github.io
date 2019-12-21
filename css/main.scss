@@ -4,6 +4,8 @@
 // Customization Variables
 
 $accent: #FF0F00;
+$image-height: 100px;
+$image-width: 86px;
 $image-size: 100px;
 
 $max-width: 740px;
@@ -200,8 +202,8 @@ code {
         font-style: italic;
     }
     .profile-picture {
-        height: $image-size;
-        width: $image-size;
+        height: $image-height;
+        width: $image-width;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
