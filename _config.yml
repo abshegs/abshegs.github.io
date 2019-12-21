@@ -1,4 +1,4 @@
-title: Quarky
+title: Psi-ntific
 author: Abhay Hegde
 subtitle: Murmurs
 
@@ -19,5 +19,7 @@ sass:
 navbar:
  - name: "About"
    link: "about"
+ - name: "Contact"
+   link: "contact"
 
 theme: jekyll-theme-minimal
