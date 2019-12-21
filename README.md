@@ -1,6 +1,3 @@
-# Parchment
-A clean, single column blog template built for jekyll
-
 ## Usage
 
 * To use this as your GitHub Page, fork this repository, and
@@ -24,8 +21,9 @@ Pull requests are welcome. For major changes, please open an
 issue first to discuss what you would like to change.
 
 ## Credits
+The website uses Parchment forked from [pro-panda](https://github.com/pro-panda/parchment).
 Parchment is inspired from the resume theme
-[Researcher](https://github.com/ankitsultana/researcher)
+[Researcher](https://github.com/ankitsultana/researcher).
 
 ## License
 [GNU GPL v3](LICENSE)
