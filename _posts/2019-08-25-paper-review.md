@@ -18,4 +18,4 @@ Storing information physically and reading them on demand seemed to be the crux 
 
 This talk reveals a fantastically creative mind capable of imagining ahead of its time. Though the speech did not have a tremendous impact back then, it was considered, by the 1990s, as the earliest endorsement of nanotechnological research. Sixty years on, some of Feynman’s ideas may sound inevitably dated, yet the theme remains profoundly pertinent. Give it a read to relish the spectacle of a genius giving free rein to his imagination!
 
-Link to paper: http://calteches.library.caltech.edu/1976/1/1960Bottom.pdf
+Link to paper: [Archive from Caltech library](http://calteches.library.caltech.edu/1976/1/1960Bottom.pdf)
