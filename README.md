@@ -16,10 +16,6 @@
 * To add a profile picture, use class `profile-picture` around
   the image.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an
-issue first to discuss what you would like to change.
-
 ## Credits
 The website uses Parchment forked from [pro-panda](https://github.com/pro-panda/parchment).
 Parchment is inspired from the resume theme
