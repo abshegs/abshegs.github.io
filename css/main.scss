@@ -202,8 +202,8 @@ code {
         font-style: italic;
     }
     .profile-picture {
-        height: $image-height;
-        width: $image-width;
+        height: $image-size;
+        width: $image-size;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
