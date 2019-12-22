@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Classic Paper Review - There is Plenty of Room at the Bottom
+title: There is Plenty of Room at the Bottom
 snippet: A review on Feynman's much celebrated talk on the dawn of nanotechnology.
 tags: [physics, papers]
 ---
