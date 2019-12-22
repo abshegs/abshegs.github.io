@@ -9,7 +9,7 @@ footer_url: "https://abshegs.github.io"
 footer_text: "Abhay Hegde"
 
 profile-picture: assets/profile.jpg
-favicon_location: assets/favicon.ico
+favicon_location: assets/psi.ico
 
 permalink: /:year-:month-:day-:title/
 sass:
@@ -21,5 +21,7 @@ navbar:
    link: "about"
  - name: "Contact"
    link: "contact"
+ - name: "Links"
+   link: "links"
 
 theme: jekyll-theme-minimal
