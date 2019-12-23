@@ -1,5 +1,3 @@
-# Links
-
 - [Brainpickings](brainpickings.org) - A inventory of a meaningful life
 - [Math pages](mathpages.com) - A collection of enriching math and physics
 - [Physics Stackexchange](physics.stackexchange.com) - A crowd-sourced question and answer website.
