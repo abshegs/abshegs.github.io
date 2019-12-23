@@ -1,3 +1,6 @@
+## Content
+Written, edited and maintained by Abhay Hegde.
+
 ## Credits
 The website uses Parchment forked from [pro-panda](https://github.com/pro-panda/parchment).
 Parchment is inspired from the resume theme
