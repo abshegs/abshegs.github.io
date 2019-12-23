@@ -23,7 +23,7 @@ navbar:
    link: "contact"
  - name: "Links"
    link: "links"
- - name: "Kannada"
+ - name: "ಕನ್ನಡ"
    link: "kannada"
 
 theme: jekyll-theme-minimal
