@@ -5,7 +5,7 @@ snippet: A review on Feynman's much celebrated talk on the dawn of nanotechnolog
 tags: [physics, papers]
 ---
 
-Richard Feynman’s famous talk titled _“There’s Plenty of Room at the Bottom”_ is often credited for conceptualising the basic notions of nanotechnology. He delivered this seminal lecture at an American Physical Society meeting at Caltech in 1959. It was aimed at addressing interesting questions such as ###“How small a machine could one build? How tiny could one write?”
+Richard Feynman’s famous talk titled _“There’s Plenty of Room at the Bottom”_ is often credited for conceptualising the basic notions of nanotechnology. He delivered this seminal lecture at an American Physical Society meeting at Caltech in 1959. It was aimed at addressing interesting questions such as **“How small a machine could one build? How tiny could one write?”**
 
 Feynman envisioned to create a new field to deal with manipulating and controlling things on a miniature scale. The lecture paved the way to conceive tiny machines building even tinier machines. In fact, the talk contained all the elements of inspiration for kick-starting developments in synthetic chemistry, molecular engineering, and quantum computers.
 
