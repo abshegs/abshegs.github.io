@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magnetic resonance imaging of single atoms on a surface
-snippet: 
+snippet: A paper review on an important feat in imaging
 tags: physics, papers
 ---
 
