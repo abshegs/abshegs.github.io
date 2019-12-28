@@ -59,12 +59,6 @@ surface. The magnetic interactions between the tip and the atom, in
 particular magnetic dipolar and exchange interactions help in acheiving
 the additional resolution needed.
 
-![image](image1.png){width="0.8\\linewidth"} [\[fig:test1\]]{#fig:test1
-label="fig:test1"}
-
-![image](image3.png){width="0.8\\linewidth"} [\[fig:test2\]]{#fig:test2
-label="fig:test2"}
-
 ## Sources of Noise
 
 1.  Thermal noise: Though the sample is cooled to ultra-low tempratures,
@@ -86,9 +80,7 @@ quantum simulators and spin networks.
 
 ## References
 
-1.  Willke, P., Yang, K., Bae, Y. et al. Magnetic resonance imaging of
-    single atoms on a surface. Nat. Phys. 15, 1005-1010 (2019)\
-    [doi:10.1038/s41567-019-0573-x]{.sans-serif}
+1.  [Willke, P., Yang, K., Bae, Y. et al. Magnetic resonance imaging of
+    single atoms on a surface. Nat. Phys. 15, 1005-1010 (2019)](https://www.nature.com/articles/s41567-019-0573-x)
 
-2.  Photographing a Single Atom\
-    [https://klickverbot.at/blog/2018/02/photographing-a-single-atom/]{.sans-serif}
+2.  [Photographing a Single Atom](https://klickverbot.at/blog/2018/02/photographing-a-single-atom/)
