@@ -1,27 +1,21 @@
 ---
-author:
-- 'Abhaya S. Hegde, IMS16004'
-date: 'Oct 31, 2019'
-title: |
-  PHY 411 Assignment\
-  **Magnetic resonance imaging of\
-  single atoms on a surface$^{[1]}$**
+layout: post
+title: Magnetic resonance imaging of single atoms on a surface
+snippet: 
+tags: physics, papers
 ---
 
-Aim {#aim .unnumbered}
----
+## Aim
 
 To demonstrate the MRI of individual atoms on a surface to subangstrom
 spatial resolution.
 
-Apparatus {#apparatus .unnumbered}
----------
+## Apparatus
 
 Cryogenic scanning tunneling microscope, Electron spin resonance,
 Magnetic tip, RF oscillator, Ti$_\text{O}$ atom samples, MnO$_2$ surface
 
-Introduction {#introduction .unnumbered}
-------------
+## Introduction
 
 A clear image of Strontium was captured in 2018 by a group of students
 from Oxford \[2\]. The primary idea is to design the magnetic field
@@ -31,8 +25,7 @@ resolution, their energy resolution is limited in tunneling spectroscopy
 experiments due to thermal broadening. In this paper, a new method was
 proposed to image the magnetic field to subangstrom resolution.
 
-Setup {#setup .unnumbered}
------
+## Setup
 
 Single adatoms are adsorbed on $MnO_2$ surface. Fe atoms form the spin
 cluster on tip apex of STM. A magnetic field gradient of
@@ -41,8 +34,7 @@ four to five orders of magnitude larger than in other scanning field
 gradient experiments. This is a consequence of the close proximity
 between the magnetic tip and the surface atom.
 
-Principle {#principle .unnumbered}
----------
+## Principle
 
 Single adatoms adsorbed on a surface are electrically probed using an
 STM tip above the atom. The Tunnel-current-assisted ESR is performed by
@@ -73,8 +65,7 @@ label="fig:test1"}
 ![image](image3.png){width="0.8\\linewidth"} [\[fig:test2\]]{#fig:test2
 label="fig:test2"}
 
-Sources of Noise {#sources-of-noise .unnumbered}
-----------------
+## Sources of Noise
 
 1.  Thermal noise: Though the sample is cooled to ultra-low tempratures,
     the noise would be present nevertheless.
@@ -86,16 +77,14 @@ Sources of Noise {#sources-of-noise .unnumbered}
     noise plays a major role in determining the resolutions of image
     obtained.
 
-Applications {#applications .unnumbered}
-------------
+## Applications
 
 The potential applications of atomic-scale MRI include imaging
 biomolecules with unprecedented resolution, revealing the spin structure
 of atoms, molecules and solids, and giving site-dependent control in
 quantum simulators and spin networks.
 
-References {#references .unnumbered}
-----------
+## References
 
 1.  Willke, P., Yang, K., Bae, Y. et al. Magnetic resonance imaging of
     single atoms on a surface. Nat. Phys. 15, 1005-1010 (2019)\
