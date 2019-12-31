@@ -16,7 +16,7 @@ sass:
     style: compressed
     sass_dir: css
 
-logo: /assets/images/logo.png
+logo: /assets/logo.png
 
 navbar:
  - name: "About"
