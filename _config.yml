@@ -9,7 +9,7 @@ footer_url: "https://psintific.github.io/about"
 footer_text: "Abhay Hegde"
 
 profile-picture: assets/profile.jpg
-favicon_location: assets/psi.ico
+favicon_location: assets/psintific.ico
 
 permalink: /:year-:month-:day-:title/
 sass:
